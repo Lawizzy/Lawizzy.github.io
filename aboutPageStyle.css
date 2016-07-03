@@ -12,7 +12,7 @@ background:-moz-linear-gradient(top,cyan,silver,silver,cyan);
 background:-webkit-linear-gradient(top,skyblue,skyblue);
 }
 a{
-	
+	color:white;
 	text-decoration:none;
 }
 
